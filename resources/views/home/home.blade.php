@@ -39,8 +39,6 @@
             <!-- Image Logo -->
             <a class="navbar-brand logo-image" href="/"><img src="images/logo.svg" alt="alternative"></a>
 
-            <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Mark</a> -->
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
